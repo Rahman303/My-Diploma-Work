@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/My-Diploma-Work/static/css/main.11ed2a8e.css",
+    "main.js": "/My-Diploma-Work/static/js/main.02daa901.js",
+    "static/media/drone.svg": "/My-Diploma-Work/static/media/drone.21f731e7a7ebf250211ccd33a30faaab.svg",
+    "static/media/mountain.svg": "/My-Diploma-Work/static/media/mountain.8366adb951be17182fdbbe29aafb9e75.svg",
+    "static/media/wildlife.svg": "/My-Diploma-Work/static/media/wildlife.7e5f19f3d2f12e558e321605ce65de9b.svg",
+    "static/media/photography.svg": "/My-Diploma-Work/static/media/photography.52bed599aa3fe77b50662c57d32ca8c6.svg",
+    "static/media/apple-products.svg": "/My-Diploma-Work/static/media/apple-products.c5ed3ece97d2b36ae368c51e799c25ec.svg",
+    "static/media/tools.svg": "/My-Diploma-Work/static/media/tools.cbfc43b8195a6c922cc8f140850f88ba.svg",
+    "static/media/leave.svg": "/My-Diploma-Work/static/media/leave.2078a4a119ac8d6e6e04935d9382fc83.svg",
+    "static/media/hill-hayes.svg": "/My-Diploma-Work/static/media/hill-hayes.c4ea8b5102aaeabb9e74a20528c642bf.svg",
+    "static/media/starfall.svg": "/My-Diploma-Work/static/media/starfall.26d004bc3fc03eed4486b255da079ce9.svg",
+    "static/media/sunset.svg": "/My-Diploma-Work/static/media/sunset.c082b529ee4dbded6d2a9098758451fb.svg",
+    "static/media/chill-industries.svg": "/My-Diploma-Work/static/media/chill-industries.94bc4ebf98fb1b79298e00977adb3a95.svg",
+    "static/media/riksgransen.svg": "/My-Diploma-Work/static/media/riksgransen.aed4feff39f0e69316d54021853a5dc4.svg",
+    "static/media/button.svg": "/My-Diploma-Work/static/media/button.134d0752a74003b7ca6bcbaaf6585401.svg",
+    "static/media/studio-cai.svg": "/My-Diploma-Work/static/media/studio-cai.77476388283b81187318352504edca81.svg",
+    "static/media/aperture.svg": "/My-Diploma-Work/static/media/aperture.8ef01cdc84d5b3464adb4bd566f311d8.svg",
+    "static/media/stockholm.svg": "/My-Diploma-Work/static/media/stockholm.e661bad8fd6194b82c59c25b884f1472.svg",
+    "static/media/instagram.svg": "/My-Diploma-Work/static/media/instagram.57888ba6a5ebc1346adfce5d15d9f763.svg",
+    "static/media/twitter.svg": "/My-Diploma-Work/static/media/twitter.2cc663f2ad45f18e2e1409825cb41306.svg",
+    "index.html": "/My-Diploma-Work/index.html",
+    "static/media/facebook.svg": "/My-Diploma-Work/static/media/facebook.93984ba8d1aabf3119351ee931c38e17.svg",
+    "main.11ed2a8e.css.map": "/My-Diploma-Work/static/css/main.11ed2a8e.css.map",
+    "main.02daa901.js.map": "/My-Diploma-Work/static/js/main.02daa901.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11ed2a8e.css",
+    "static/js/main.02daa901.js"
+  ]
+}
